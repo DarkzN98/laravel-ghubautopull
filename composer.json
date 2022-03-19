@@ -1,0 +1,21 @@
+{
+    "name": "darkzn/ghubautopull",
+    "description": "Darkzn98's Github Autopull",
+    "type": "library",
+    "require": {
+        "php": ">=7.3.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Darkzn\\Ghubautopull\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OmJemblung",
+            "email": "darkzn98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
